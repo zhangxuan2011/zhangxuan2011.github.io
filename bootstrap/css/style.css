@@ -1,4 +1,8 @@
+@font-face {
+  font-family: "Self Font";
+  src: url(../fonts/GenshinFont.ttf)
+}
+
 * {
-font-family: PingFang SC,HarmonyOS_Medium;
-src: url("https://zhangxuan2011.github.io/bootstrap/fonts/font.ttf"); /* IE9+,可以是具体的实际链接 */
+  font-family: 'Self Font'
 }
