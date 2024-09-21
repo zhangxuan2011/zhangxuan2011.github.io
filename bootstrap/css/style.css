@@ -1,8 +1,8 @@
 @font-face {
-  font-family: "Self Font";
+  font-family: "SelfFont";
   src: url("../fonts/GenshinFont.ttf")
 }
 
 * {
-  font-family: 'Self Font'
+  font-family: 'SelfFont'
 }
