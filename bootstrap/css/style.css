@@ -1,8 +1,4 @@
-@font-face {
-  font-family: "SelfFont";
-  src: url("../fonts/cutefont.ttf")
+* {
+  font-family: 'Arial, Helvetica, sans-serif, "Microsoft YaHei", "SimHei", "PingFang SC", serif, monospace, cursive, fantasy;';
 }
 
-* {
-  font-family: 'SelfFont'
-}
