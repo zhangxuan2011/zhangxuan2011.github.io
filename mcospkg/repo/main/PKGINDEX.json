@@ -1,9 +1,0 @@
-{
-    "PKGINDEX": {
-		"mcospkg": "mcospkg-v0.1-any.tar.gz",
-		"python": "python-3.12.7-any.tar.gz"
-    },
-    "BASEON": {
-		"mcospkg": "python"
-    }
-}
