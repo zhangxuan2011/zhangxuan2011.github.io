@@ -1,0 +1,10 @@
+{
+    "ARCH": "x86_64",
+    "PKGINDEX": {
+        "mcospkg": "mcospkg-0.1.1.x86_64.tar.xz",
+        "python": "python-3.12.8-x86_64.tar.xz"
+    },
+    "BASEON": {
+        "mcospkg": "python"
+    }
+}
