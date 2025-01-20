@@ -1,6 +1,7 @@
 {
+    "url": "https://zhangxuan2011.github.io/mcospkg/repo/app",
     "pkgindex": {
-	"hmcl": "hmcl-3.5.432-any.tar.xz"
+	    "hmcl": "hmcl-3.5.432-any.tar.xz"
     },
     "baseon": {}
 }
