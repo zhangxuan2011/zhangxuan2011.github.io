@@ -1,4 +1,6 @@
 {
-    "install": "./install",
-    "app": "./app"
+    "pkgindex": {
+	"hmcl": "hmcl-3.5.432-any.tar.xz"
+    },
+    "baseon": {}
 }
