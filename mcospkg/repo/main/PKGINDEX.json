@@ -1,9 +1,15 @@
 {
     "arch": "x86_64",
-    "url": "https://zhangxuan2011.github.io/mcospkg/repo/main",
+    "url": "http://192.168.1.6:8000/repo/main",
     "pkgindex": {
-        "mcospkg": "mcospkg-0.1.1-x86_64.tar.xz",
-        "python": "python-3.12.8-any.tar.xz"
+        "mcospkg": {
+	    "filename": "mcospkg-0.1.1-x86_64.tar.xz",
+	    "version": "0.1.1"
+	},
+        "python": {
+	    "filename": "python-3.12.8-any.tar.xz",
+	    "version": "3.12.8"
+	}
     },
     "baseon": {
         "mcospkg": ["python"]
