@@ -11,6 +11,11 @@
 	    "filename": "python-3.12.8-any.tar.xz",
 	    "version": "3.12.8",
 	    "sha256sums": "f4ee926bb22606472b69eb9e0c39272043267a03aaf1a529fc660a949ebf878e"
+	},
+	"uv": {
+            "filename": "uv-0.6.6-aarch64.tar.xz",
+	    "version": "0.6.6",
+	    "sha256sums": "6b6abe03502267bfa0ddd71af2421eeaff2ae3fee91cfe36e8061e53a1ca6222"
 	}
     },
     "baseon": {
