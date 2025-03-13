@@ -15,7 +15,7 @@
 	"uv": {
             "filename": "uv-0.6.6-aarch64.tar.xz",
 	    "version": "0.6.6",
-	    "sha256sums": "6b6abe03502267bfa0ddd71af2421eeaff2ae3fee91cfe36e8061e53a1ca6222"
+	    "sha256sums": "ac1434ebdad80ffc32e30606d3273ccde2d1c799539a04c61307a51fd1f2734c"
 	}
     },
     "baseon": {
