@@ -3,8 +3,8 @@
     "url": "https://zhangxuan2011.github.io/mcospkg/repo/main",
     "pkgindex": {
         "mcospkg": {
-	    "filename": "mcospkg-0.1.1-x86_64.tar.xz",
-	    "version": "0.1.1",
+	    "filename": "mcospkg-0.9.1-aarch64.tar.xz",
+	    "version": "0.9.1",
 	    "sha256sums": ""
 	},
         "python": {
