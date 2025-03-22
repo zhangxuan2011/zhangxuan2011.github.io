@@ -1,11 +1,11 @@
 {
     "arch": "x86_64",
-    "url": "https://zhangxuan2011.github.io/mcospkg/repo/main",
+    "url": "http://127.0.0.1:8000/repo/main",
     "pkgindex": {
         "mcospkg": {
 	    "filename": "mcospkg-0.9.1-aarch64.tar.xz",
 	    "version": "0.9.1",
-	    "sha256sums": ""
+	    "sha256sums": "91572b4515c74ee59a0b826c000540f081d3673c121d790ed7baf784e7c9c0cb"
 	},
         "python": {
 	    "filename": "python-3.12.8-any.tar.xz",
@@ -16,6 +16,11 @@
             "filename": "uv-0.6.6-aarch64.tar.xz",
 	    "version": "0.6.6",
 	    "sha256sums": "ac1434ebdad80ffc32e30606d3273ccde2d1c799539a04c61307a51fd1f2734c"
+	},
+	"server": {
+            "filename": "server-0.1.0-aarch64.tar.xz",
+	    "version": "0.1.0",
+	    "sha256sums": "a8957afa003af0183bf2ad50b252b7c18a61d34f1b0617d710404b9b72fe6db7"
 	}
     },
     "baseon": {
